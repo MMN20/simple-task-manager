@@ -1,0 +1,13 @@
+C:\Users\Mustafa\source\repos\Tasky\bin\Debug\Tasky.exe.config
+C:\Users\Mustafa\source\repos\Tasky\bin\Debug\Tasky.exe
+C:\Users\Mustafa\source\repos\Tasky\bin\Debug\Tasky.pdb
+C:\Users\Mustafa\source\repos\Tasky\obj\Debug\Tasky.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\Tasky\obj\Debug\Tasky.Form1.resources
+C:\Users\Mustafa\source\repos\Tasky\obj\Debug\Tasky.Properties.Resources.resources
+C:\Users\Mustafa\source\repos\Tasky\obj\Debug\Tasky.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\Tasky\obj\Debug\Tasky.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\Tasky\obj\Debug\Tasky.exe
+C:\Users\Mustafa\source\repos\Tasky\obj\Debug\Tasky.pdb
+C:\Users\Mustafa\source\repos\Tasky\obj\Debug\Tasky.frmTaskListScreen.resources
+C:\Users\Mustafa\source\repos\Tasky\obj\Debug\Tasky.frmToolsScreen.resources
+C:\Users\Mustafa\source\repos\Tasky\obj\Debug\Tasky.frmHomeScreen.resources
